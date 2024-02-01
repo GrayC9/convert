@@ -1,5 +1,5 @@
-#include "convert_main.cpp"
-#include "convert_func.cpp"
+#include <convert.hpp>
+
 
 int counter_condition = 0;
 
@@ -56,19 +56,19 @@ void test_isUnitInMap_non_correct() {
 
 int main() {
     test_ProcessInput();
-    // cout << "Тест test_ProcessInput пройден!" << endl;
+    cout << "Тест test_ProcessInput пройден!" << endl;
     test_ValidateInput();
-    // cout << "Тест test_ValidateInput пройден!" << endl;
+    cout << "Тест test_ValidateInput пройден!" << endl;
     test_ValidateInput_input_ed_bred();
-    // cout << "Тест test_ValidateInput_input_ed_bred пройден!" << endl;
+    cout << "Тест test_ValidateInput_input_ed_bred пройден!" << endl;
     test_ValidateInput_input_ed_empty();
-    // cout << "Тест test_ValidateInput_input_ed_empty пройден!" << endl;
+    cout << "Тест test_ValidateInput_input_ed_empty пройден!" << endl;
     test_ValidateInput_target_bred();
-    // cout << "Тест test_ValidateInput_target_bred пройден!" << endl;
+    cout << "Тест test_ValidateInput_target_bred пройден!" << endl;
     test_isUnitInMap_correct();
-    // cout << "Тест test_isUnitInMap_correct пройден!" << endl;
+    cout << "Тест test_isUnitInMap_correct пройден!" << endl;
     test_isUnitInMap_non_correct();
-    // cout << "Тест test_isUnitInMap_non_correct пройден!" << endl;
-    // cout << counter_condition << endl;
+    cout << "Тест test_isUnitInMap_non_correct пройден!" << endl;
+    cout << counter_condition << endl;
     return 0;
 }

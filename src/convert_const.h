@@ -1,6 +1,7 @@
 #pragma once
 
 #include <map>
+#include <string>
 
 const std::map<std::string, unsigned long long> convert_ed = {
     {"b", 1ULL},
