@@ -1,9 +1,0 @@
-/home/trd12/cpp_project1/Proga/convert/build/CMakeFiles/edit_cache.dir
-/home/trd12/cpp_project1/Proga/convert/build/CMakeFiles/rebuild_cache.dir
-/home/trd12/cpp_project1/Proga/convert/build/src/CMakeFiles/convert_lib.dir
-/home/trd12/cpp_project1/Proga/convert/build/src/CMakeFiles/convert.dir
-/home/trd12/cpp_project1/Proga/convert/build/src/CMakeFiles/edit_cache.dir
-/home/trd12/cpp_project1/Proga/convert/build/src/CMakeFiles/rebuild_cache.dir
-/home/trd12/cpp_project1/Proga/convert/build/tests/CMakeFiles/testing.dir
-/home/trd12/cpp_project1/Proga/convert/build/tests/CMakeFiles/edit_cache.dir
-/home/trd12/cpp_project1/Proga/convert/build/tests/CMakeFiles/rebuild_cache.dir
